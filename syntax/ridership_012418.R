@@ -1,4 +1,5 @@
 # ecobici/pollution/weather/transportsystem data compilation
+#This script produces ridership data at the station-hour level for the entire bikeshare data set (2010-2017)
 
 library(tidyverse)
 library(lubridate)
