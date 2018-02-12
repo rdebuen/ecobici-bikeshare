@@ -171,4 +171,4 @@ plot(set1)
                                   second_nearest_poll = set1$second_nearest_in_set2,
                                   stations_within_100m = set1$any_within_100) ##%>% save(file="Data.Rda")
                                   
- #MAKE SURE THIS IS MATCHING ECOBICI IDS AND NOT VECTOR POSITIONS!!!!!!!
+
