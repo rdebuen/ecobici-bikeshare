@@ -1,3 +1,6 @@
+#Experiment to make a visualization that captures the different changes that impact the
+# Mexico city driving restriction policy and the changes made in my study persiod (2016-june 2017)
+
 rm(list = ls())
 library(vistime)
 library(ggplot2)
